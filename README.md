@@ -1,6 +1,6 @@
 # vidddy
 
-Book Reading UI Design with Flutter and Figma
+Content Showing UI Design with Flutter and Figma
 
 You can observe to predesign process in Figma
 
