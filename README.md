@@ -21,7 +21,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
 Regarding using components in this flutter project, you can read more detail.
 
 https://pub.dev/packages/chewie
